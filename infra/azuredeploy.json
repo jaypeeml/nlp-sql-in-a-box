@@ -330,7 +330,7 @@
                 }
               },
               "sku": {
-                "capacity": 10,
+                "capacity": 6,
                 "name": "Standard"
               },
               "dependsOn": [
